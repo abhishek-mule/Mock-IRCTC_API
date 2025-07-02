@@ -29,7 +29,7 @@ A Java-based mock REST API simulating core IRCTC train booking and ticketing fea
 
 1. **Clone the repository:**
    
-   git clone https://github.com/your-username/mock-irctc-api.git
+   git clone [https://github.com/your-username/mock-irctc-api.git](https://github.com/abhishek-mule/Mock-IRCTC_API.git)
    cd mock-irctc-api
    
 Build the project:
